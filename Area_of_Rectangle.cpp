@@ -7,7 +7,7 @@ int main() {
     cin >> l >> b;
 
     result = l*b;       //Simple Formula of Area of Rectangle.
-    cout << result;
+    cout << result;     //Will give the resultant value (Eg. if l=2, b=4, result=8)
     
     return 0;
 }
